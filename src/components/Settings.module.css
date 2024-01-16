@@ -1,0 +1,23 @@
+
+.container {
+    margin-top: 40%;
+    margin-right: 5%;
+    margin-left: 10%;
+    min-width: 30%;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.error {
+    
+    background-color: red;
+}
+
+.button {
+    min-height: 30px;
+    min-width: 10%;
+    background-color: #584584;
+    border-radius: 4px ;
+    border: 4px solid aqua;
+}
